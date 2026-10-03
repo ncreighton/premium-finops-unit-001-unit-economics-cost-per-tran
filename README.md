@@ -1,0 +1,2 @@
+# premium-finops-unit-001-unit-economics-cost-per-tran
+You're bleeding money on cloud infrastructure but have no idea which transaction, feature, or customer actually costs you to serve. Most finops teams track spend in aggregate—they never see the unit economics that actually matter.  The Unit Economics &amp; Cost-Per-Transaction Log is a pre-built Notion template that lets you map every transaction to it
